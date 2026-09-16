@@ -103,7 +103,7 @@ dashboard e metas → conversa com o FinBot.
 
 ---
 
-
+```markdown
 
 ## 💡 Reflexão sobre o processo
 

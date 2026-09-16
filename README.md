@@ -91,6 +91,25 @@ Onboarding com perfil e objetivo → sugestão da primeira meta →
 registro de transações (manual ou com IA) → acompanhamento no
 dashboard e metas → conversa com o FinBot.
 
+
+
+---
+
+
+## 💡 Reflexão sobre o processo
+
+O desafio mostrou que **vibe coding é 80% comunicação**: a primeira
+versão do app só ficou boa porque o PRD definiu público, funcionalidades
+e fluxos antes de qualquer linha de código gerada. Também aprendi que
+o processo é iterativo: a base nasce do prompt inicial, mas o produto
+final é construído em refinamentos guiados por prompts específicos
+(estados vazios, dados de demonstração, responsividade, tom dos textos).
+
+A maior lição: a IA não substitui o pensamento de produto. Ela executa
+o que é bem especificado. Quem estrutura a ideia com clareza entrega
+melhor resultado em menos tempo, que é exatamente a habilidade que o
+mercado valoriza.
+
 ## 5. Requisitos técnicos
 - Banco de dados: usuarios, transacoes, metas, categorias.
 - Autenticação simples por e-mail.

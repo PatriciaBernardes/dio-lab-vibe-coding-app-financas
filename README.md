@@ -92,8 +92,17 @@ registro de transações (manual ou com IA) → acompanhamento no
 dashboard e metas → conversa com o FinBot.
 
 
+## 5. Requisitos técnicos
+- Banco de dados: usuarios, transacoes, metas, categorias.
+- Autenticação simples por e-mail.
+- Arquitetura pronta para receber API de IA de categorização e chat.
+
+
+
+
 
 ---
+
 
 
 ## 💡 Reflexão sobre o processo
@@ -109,8 +118,3 @@ A maior lição: a IA não substitui o pensamento de produto. Ela executa
 o que é bem especificado. Quem estrutura a ideia com clareza entrega
 melhor resultado em menos tempo, que é exatamente a habilidade que o
 mercado valoriza.
-
-## 5. Requisitos técnicos
-- Banco de dados: usuarios, transacoes, metas, categorias.
-- Autenticação simples por e-mail.
-- Arquitetura pronta para receber API de IA de categorização e chat.

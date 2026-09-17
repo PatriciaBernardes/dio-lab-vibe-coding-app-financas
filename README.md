@@ -1,9 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
 # 💸 FinPilot · App de Finanças Pessoais com IA
 
 > Desafio do bootcamp **Criando produtos com IA** · Riachuelo + DIO
